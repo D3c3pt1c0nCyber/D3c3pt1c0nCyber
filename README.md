@@ -19,7 +19,7 @@ Outside of the day job, I'm building projects with AI and vibe coding: shipping 
 | **Agentic vulnerability assessment** *(pilot)* | Autonomous AI agents that support scanning, finding validation, and report drafting for VA and bug-bounty triage. |
 | **AWAKE Learning Hub** | Learning platform for church branches and their Life Networks, built to scale to about 1,000 users. |
 | **[Awake Generation Church](https://awakegenerationchurch.pages.dev)** | Church website, designed and deployed on Cloudflare Pages. |
-| **Ilu's School of Thoughts** | Philosophy LMS with tiered content and verifiable digital certificates. |
+| **Ilu's School of Thoughts(https://ilus-school-of-thoughts.onrender.com)** | Philosophy LMS with tiered content and verifiable digital certificates. |
 
 ---
 
