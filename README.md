@@ -17,7 +17,7 @@ Outside of the day job, I'm building projects with AI and vibe coding: shipping 
 | **[Vector Asset Management](https://github.com/D3c3pt1c0nCyber/Vector-Asset-Management)** | Branded Snipe-IT deployment with a dark theme, a Claude-powered asset assistant, and a fully scripted Docker setup. |
 | **GRC knowledge base & evidence tooling** | 300+ standardized security responses, a HECVAT-to-Q&A migration utility, and scanning and evidence-collection scripts for audit cycles. |
 | **Agentic vulnerability assessment** *(pilot)* | Autonomous AI agents that support scanning, finding validation, and report drafting for VA and bug-bounty triage. |
-| **[AWAKE Learning Hub]** | Learning platform for church branches and their Life Networks, built to scale to about 1,000 users. |
+| **AWAKE Learning Hub** | Learning platform for church branches and their Life Networks, built to scale to about 1,000 users. |
 | **[Awake Generation Church](https://awakegenerationchurch.pages.dev)** | Church website, designed and deployed on Cloudflare Pages. |
 | **Ilu's School of Thoughts** | Philosophy LMS with tiered content and verifiable digital certificates. |
 
