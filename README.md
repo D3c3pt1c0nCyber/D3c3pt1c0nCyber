@@ -30,26 +30,3 @@ Outside of the day job, I'm building projects with AI and vibe coding: shipping 
 **Automation & AI:** Python · JavaScript / Node.js · Claude API & LLMs · agentic AI workflows · knowledge-base engineering  
 **Platforms:** Jira · Confluence · Microsoft 365 Security · Active Directory · Azure (familiar) · Docker · Cloudflare Pages  
 **Networking:** Firewalls · VPN · Switching / VLAN · Windows Server · Endpoint Security
-
----
-
-#### Experience
-
-| Role | Company | Years |
-|---|---|---|
-| Information Security Analyst, GRC | Vector Solutions | 2024 – present |
-| Solutions Consultant Lead, Network & Security | MDI-Novare | 2023 – 2024 |
-| Security Operations Consultant | Compass MSP | 2021 – 2023 |
-| SOC Analyst | ION Management Solutions | 2021 |
-| Cybersecurity Analyst, ISOC | ePLDT | 2020 |
-
-**Education:** BS Computer Engineering, Polytechnic University of the Philippines
-
----
-
-<p>
-  <a href="https://www.linkedin.com/in/joiesayen">LinkedIn</a> ·
-  <a href="https://orcid.org/0009-0004-9001-1316">ORCID</a>
-</p>
-
-<sub><i>"All warfare is based on deception." — Sun Tzu</i></sub>
