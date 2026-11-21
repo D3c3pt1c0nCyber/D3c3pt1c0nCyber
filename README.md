@@ -1,6 +1,6 @@
 ### Hi, I'm Joie Sayen
 
-**Information Security Analyst · Governance, Risk & Compliance · Pre-Sales Security**  
+**Information Security Analyst · Governance, Risk & Compliance**  
 Manila, Philippines
 
 Cybersecurity professional with 6+ years across GRC, pre-sales security, incident response, threat hunting, and vulnerability assessment. Today I lead vendor security questionnaire and RFP response across multiple SaaS product lines, support SOC 2 Type II audit cycles, and build Python and AI-assisted automation that scales the security review process.
