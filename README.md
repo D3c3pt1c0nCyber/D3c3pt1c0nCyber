@@ -11,10 +11,3 @@ I handle vendor security reviews, security assessments, and compliance documenta
 #### Featured
 
 - **[Vector Asset Management](https://github.com/D3c3pt1c0nCyber/Vector-Asset-Management)**: a branded Snipe-IT deployment with a dark theme, an AI asset assistant, and fully scripted Docker setup
-
-<p>
-  <a href="https://www.linkedin.com/in/joiesayen">LinkedIn</a> ·
-  <a href="https://orcid.org/0009-0004-9001-1316">ORCID</a>
-</p>
-
-<sub><i>"All warfare is based on deception." — Sun Tzu</i></sub>
