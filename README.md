@@ -20,14 +20,10 @@ I build my GRC tooling with AI and vibe coding, using Claude (Projects, Skills, 
 | **Executive Pentest Summary Maker** | Produces customer-shareable penetration test executive summaries from tracked findings, with remediation status and currency statements, and no internal tool references. |
 | **AppSec (Veracode) Report Generator** | Consolidates SAST, DAST, and SCA results into a portfolio assessment and per-product summaries covering policy compliance, CI/CD security gates, corrective actions, and a Secure SDLC control map. |
 | **High-Level Architecture Maker** | Builds customer-facing architecture documents and diagrams (DOCX, draw.io, SVG) for security reviews. Applies disclosure rules (no IPs, ports, or versions) and routes unverified claims to technical owners for sign-off. |
-| **NDA & Document-Sharing Review** | Cross-checks NDA status and contract terms across Salesforce, Confluence, and Jira to decide which security documents can be shared with a partner, and on what terms. |
 | **Security Intake Automation** | Power Automate flows that turn the security shared mailbox into Jira tickets (deduplication, approval gate, Teams card) and sync ticket due dates to Outlook. |
-| **ISC SharePoint Hub** | Internal Information Security & Compliance site design: request queue with SLA status, policy library, and intake routing. |
 | **GRC Knowledge Vault** | Obsidian vault with a two-brain layout (facts and questionnaires) maintained by a Claude Code agent that imports, drafts, syncs, and verifies answers. Includes a perimeter-scan skill that generates architecture documentation. |
 | **Agentic Vulnerability Assessment** *(pilot)* | Autonomous AI agents that support scanning, finding validation, and report drafting for vulnerability assessment and bug-bounty triage. |
 | **[Vector Asset Management](https://github.com/D3c3pt1c0nCyber/Vector-Asset-Management)** | Branded Snipe-IT asset inventory with a Claude-powered asset assistant and a fully scripted Docker setup. |
-
-<sub>Most of these run inside my employer's environment, so their code and outputs stay private. Public repositories are linked.</sub>
 
 #### Other AI builds
 
@@ -41,8 +37,12 @@ I build my GRC tooling with AI and vibe coding, using Claude (Projects, Skills, 
 
 #### Toolkit
 
-**GRC & Compliance:** SOC 2 Type II · NIST CSF · FERPA · HECVAT · CAIQ · SIG · ISO 27001 (familiar)  
-**Security Ops:** Incident Response · Threat Hunting · OSINT · Vulnerability Assessment · SIEM / SOAR · MITRE ATT&CK  
+**GRC & Compliance:** SOC 2 Type II · NIST CSF · FERPA · HECVAT · CAIQ · SIG · ISO 27001 (familiar)
+
+**Security Ops:** Incident Response · Threat Hunting · OSINT · Vulnerability Assessment · SIEM / SOAR · MITRE ATT&CK
+
 **Automation & AI:** Python · JavaScript / Node.js · Claude API, Projects, Skills & Claude Code · agentic AI workflows · Power Automate  
+
 **Platforms:** Jira · Confluence · SharePoint · Salesforce · Microsoft 365 Security · Active Directory · Azure (familiar) · Docker · Cloudflare Pages  
+
 **Networking:** Firewalls · VPN · Switching / VLAN · Windows Server · Endpoint Security
