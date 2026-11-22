@@ -1,4 +1,4 @@
-### Hi, I'm Joie Sayen
+### Hi, I'm Joie (Joe)
 
 **Information Security Analyst · Governance, Risk & Compliance**  
 Manila, Philippines
